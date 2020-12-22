@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TeamAHT" max_length="40" name="x_96330_iclm_teamaht" type="collection">
+        <element label="LCR" max_length="40" name="lcr" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Month" max_length="40" name="month" type="glide_date"/>
+        <element label="UCR" max_length="40" name="ucr" type="integer"/>
+        <element label="Volume" max_length="40" name="volume" type="integer"/>
+    </element>
+</database>

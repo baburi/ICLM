@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ActionList" max_length="40" name="x_96330_iclm_actionlist" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ActionList" max_length="40" name="actionlist" type="string"/>
+        <element label="Count" max_length="40" name="count" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DaytoClose" max_length="40" name="x_96330_iclm_daytoclose" type="collection">
+        <element label="Period1" max_length="40" name="period1" type="integer"/>
+        <element label="Period2" max_length="40" name="period2" type="integer"/>
+        <element label="Volume" max_length="40" name="volume" type="integer"/>
+    </element>
+</database>
