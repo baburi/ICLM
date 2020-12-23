@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">ca67ac45db596c1054d1f36f299619a7</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:05:20</sys_created_on>
+        <sys_id>c267ac45db596c1054d1f36f299619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope>
+        <sys_update_name>sp_column_c267ac45db596c1054d1f36f299619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:05:20</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</application>
+        <file_path/>
+        <instance_id>74eb530ddb2ed7c00e785d00cf961989</instance_id>
+        <instance_name>dev60762</instance_name>
+        <name>sp_column_c267ac45db596c1054d1f36f299619aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">ca67ac45db596c1054d1f36f299619a7</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-23 12:05:20</sys_created_on><sys_id>c267ac45db596c1054d1f36f299619aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package><sys_policy/><sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope><sys_update_name>sp_column_c267ac45db596c1054d1f36f299619aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-23 12:05:20</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-766719263</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>e18d38f8db9d2c1054d1f36f299619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:05:20</sys_created_on>
+        <sys_id>0667ac45db596c1054d1f36f299619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1768f7d47d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:05:20</sys_updated_on>
+        <type>Column</type>
+        <update_guid>4e67ac45f5596c107890fe80cc485eab</update_guid>
+        <update_guid_history>4e67ac45f5596c107890fe80cc485eab:-766719263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">a1a76485db596c1054d1f36f29961955</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:06:25</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>127d08c997f846e6829821841a957f21</sys_id>
+        <sys_metadata>c267ac45db596c1054d1f36f299619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope>
+        <sys_scope_delete display_value="">14e83116a327482f93d827988fe2f781</sys_scope_delete>
+        <sys_update_name>sp_column_c267ac45db596c1054d1f36f299619aa</sys_update_name>
+        <sys_update_version display_value="sp_column_c267ac45db596c1054d1f36f299619aa">0667ac45db596c1054d1f36f299619ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:06:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="ICLM">124cc5b4dbdd2c1054d1f36f2996195d</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>x_96330_iclm.iclm</identity>
+        <read>true</read>
+        <role display_value="x_96330_iclm.iclm" name="x_96330_iclm.iclm">b6b3bcf0db9d2c1054d1f36f2996196b</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:36:11</sys_created_on>
+        <sys_id>f57e64c9db596c1054d1f36f29961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_96330_iclm.iclm</sys_name>
+        <sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_f57e64c9db596c1054d1f36f29961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:36:11</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

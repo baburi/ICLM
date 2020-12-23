@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>MyDashboard - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="1">e1905d78dbdd2c1054d1f36f299619ad</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:04:03</sys_created_on>
+        <sys_id>9717a005db596c1054d1f36f2996195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyDashboard - Container 2</sys_name>
+        <sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope>
+        <sys_update_name>sp_container_9717a005db596c1054d1f36f2996195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:04:03</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</application>
+        <file_path/>
+        <instance_id>74eb530ddb2ed7c00e785d00cf961989</instance_id>
+        <instance_name>dev60762</instance_name>
+        <name>sp_container_9717a005db596c1054d1f36f2996195c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>MyDashboard - Container 2</name><order>2</order><sp_page display_value="1">e1905d78dbdd2c1054d1f36f299619ad</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-23 12:04:03</sys_created_on><sys_id>9717a005db596c1054d1f36f2996195c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MyDashboard - Container 2</sys_name><sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package><sys_policy/><sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope><sys_update_name>sp_container_9717a005db596c1054d1f36f2996195c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-23 12:04:03</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-467184559</payload_hash>
+        <record_name>MyDashboard - Container 2</record_name>
+        <reverted_from/>
+        <source>e18d38f8db9d2c1054d1f36f299619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:04:04</sys_created_on>
+        <sys_id>9317ac45db596c1054d1f36f29961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1768f7c1b400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:04:04</sys_updated_on>
+        <type>Container</type>
+        <update_guid>db17ac4531596c1032531a4cfae85f7f</update_guid>
+        <update_guid_history>db17ac4531596c1032531a4cfae85f7f:-467184559</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MyDashboard - Container 2">ab27ec45db596c1054d1f36f29961946</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 12:04:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>1e5798e4292848da85645f5542816361</sys_id>
+        <sys_metadata>9717a005db596c1054d1f36f2996195c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyDashboard - Container 2</sys_name>
+        <sys_package display_value="ICLM" source="x_96330_iclm">dda3fcbcdb5d2c1054d1f36f29961920</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ICLM">dda3fcbcdb5d2c1054d1f36f29961920</sys_scope>
+        <sys_scope_delete display_value="">14e83116a327482f93d827988fe2f781</sys_scope_delete>
+        <sys_update_name>sp_container_9717a005db596c1054d1f36f2996195c</sys_update_name>
+        <sys_update_version display_value="sp_container_9717a005db596c1054d1f36f2996195c">9317ac45db596c1054d1f36f29961980</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 12:04:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

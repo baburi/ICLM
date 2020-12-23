@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="KYC_Case_Volume" max_length="40" name="x_96330_iclm_kyc_case_volume" type="collection">
+    <element label="KYC_Case_Volume" max_length="40" name="x_96330_iclm_kyc_case_volume" sizeclass="0" type="collection">
         <element label="AIAugmented" max_length="40" name="aiaugmented" type="integer"/>
         <element label="ManuallyProcessed" max_length="40" name="manuallyprocessed" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Process" max_length="40" name="process" type="string"/>
